@@ -17,6 +17,15 @@ A smart travel planning application that uses AI to generate personalized travel
 - OpenAI API key (from [OpenAI](https://platform.openai.com/))
 - Streamlit
 
+# 🛠️ Project Stack & Technologies
+  # Core Technologies
+  Python - Primary programming language
+  Streamlit - For building the web interface
+  OpenAI API - Powers the AI capabilities
+  CrewAI - For managing AI agents and tasks
+  LangChain - For AI model integration
+
+
 ### Installation
 
 1. Clone the repository:
